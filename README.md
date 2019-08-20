@@ -1,3 +1,18 @@
+[![npm package][npm-package]][npm-package-url]
+[![dependencies][dependencies]][dependencies-url]
+[![devDependencies][devDependencies]][devDependencies-url]
+
+[![downloads-total][downloads-total]][downloads-total-url]
+[![downloads-month][downloads-month]][downloads-month-url]
+
+[![stars][stars]][stars-url]
+[![forks][forks]][forks-url]
+[![issues][issues]][issues-url]
+
+[![commitizen][commitizen]][commitizen-url]
+[![PRs][PRs]][PRs-url]
+[![license][license]][license-url]
+
 ## 一、Mackdown
 
 ### 简介
