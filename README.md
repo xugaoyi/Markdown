@@ -327,6 +327,17 @@ ___粗斜体文本___
 
 
 ### 折叠列表
+
+```
+语法：
+<details>
+<summary>点我打开关闭折叠</summary>
+折叠内容
+</details>
+```
+
+
+
 <details>
 <summary>点我打开关闭折叠</summary>
 折叠内容
