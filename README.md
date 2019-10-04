@@ -4,15 +4,15 @@
 
 <img src='./test/logo.png' width='120px' style='float:left'>
 
-Markdown 是一种轻量级标记语言，它允许人们使用易读易写的纯文本格式编写文档。
+`Markdown` 是一种轻量级标记语言，它允许人们使用易读易写的纯文本格式编写文档。
 
 ###  应用
 
-当前许多网站都广泛使用 Markdown 来撰写帮助文档或是用于论坛上发表消息。例如：GitHub、简书、知乎等
+当前许多网站都广泛使用 `Markdown` 来撰写帮助文档或是用于论坛上发表消息。例如：GitHub、简书、知乎等
 
 ### 编辑器
 
-推荐使用Typora，官网：<https://typora.io/>
+推荐使用`Typora`，官网：<https://typora.io/>
 
 
 
@@ -332,24 +332,25 @@ ___粗斜体文本___
 语法：
 <details>
 <summary>点我打开关闭折叠</summary>
-折叠内容
+ 折叠内容
+ <ul>
+     <li>1</li>
+     <li>2</li>
+     <li>3</li>
+ </ul>
 </details>
 ```
 
-> 注意：<details> 标签内写mackdown代码无效，可写html代码，如ul>li、table等
+> 注意：\<details\> 标签内写mackdown代码无效，可写html代码，如ul>li、table等
 
 <details>
 <summary>点我打开关闭折叠</summary>
-折叠内容
-</details>
-
-<details>
-<summary>包含ul>li的折叠</summary><br>
-    <ul>
-        <li>1</li>
-        <li>2</li>
-        <li>3</li>
-    </ul>
+ 折叠内容
+ <ul>
+     <li>1</li>
+     <li>2</li>
+     <li>3</li>
+ </ul>
 </details>
 
 <details>
@@ -409,6 +410,8 @@ ___粗斜体文本___
         </tbody>
     </table>
 </details>
+
+
 
 ### 带复选框列表
 
