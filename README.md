@@ -336,7 +336,7 @@ ___粗斜体文本___
 </details>
 ```
 
-
+> 注意：<details> 标签内写mackdown代码无效，可写html代码，如ul>li、table等
 
 <details>
 <summary>点我打开关闭折叠</summary>
@@ -344,14 +344,71 @@ ___粗斜体文本___
 </details>
 
 <details>
-<summary>点我打开关闭折叠</summary><br>
-- Item1
-11111
-- item2
-22222
+<summary>包含ul>li的折叠</summary><br>
+    <ul>
+        <li>1</li>
+        <li>2</li>
+        <li>3</li>
+    </ul>
 </details>
 
-
+<details>
+<summary>包含table的折叠</summary>
+    <table>
+        <thead>
+            <tr>
+                <th align="center">分类</th>
+                <th align="center">例词</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td align="center">人称代词-主格</td>
+                <td align="center">I我，you你，he他，she她，they他们， we我们</td>
+            </tr>
+            <tr>
+                <td align="center">人称代词-宾格</td>
+                <td align="center">me我， you你， him他， her她， them他们， us我们</td>
+            </tr>
+            <tr>
+                <td align="center">物主代词</td>
+                <td align="center">my我的， his他的， your你的（your你们的）， their他们的， hers她的</td>
+            </tr>
+            <tr>
+                <td align="center">指示代词</td>
+                <td align="center">this这， that那， these这些， those 那些</td>
+            </tr>
+            <tr>
+                <td align="center">反身代词</td>
+                <td align="center">myself我自己， himself他自己， themselves他们自己， yourself你(们)自己，herself她自己</td>
+            </tr>
+            <tr>
+                <td align="center">疑问代词</td>
+                <td align="center">who谁， what什么， which哪个</td>
+            </tr>
+            <tr>
+                <td align="center">不定代词</td>
+                <td align="center">some一些， many许多， both两个、两个都， any许多</td>
+            </tr>
+            <tr>
+                <td align="center">关系代词</td>
+                <td align="center">which……的物， who……的人， that……的人或物， who谁， that引导定语从句</td>
+            </tr>
+            <tr>
+                <td align="center">相互代词</td>
+                <td align="center">each other 互相， one another互相</td>
+            </tr>
+            <tr>
+                <td align="center">连接代词</td>
+                <td align="center">who,whom,whose,what,which,whatever,whichever,whoever,whomever</td>
+            </tr>
+            <tr>
+                <td align="center">替代词</td>
+                <td align="center">one（单数），ones（复数）</td>
+            </tr>
+        </tbody>
+    </table>
+</details>
 
 ### 带复选框列表
 
