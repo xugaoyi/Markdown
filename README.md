@@ -1,4 +1,4 @@
-## 一、Mackdown
+## 一、Markdown
 
 ### 简介
 
@@ -30,7 +30,7 @@
 
 #### 徽章的使用
 
-* 在`mackdown`中使用
+* 在`markdown`中使用
 
 ```
 格式: [![图片文字说明](图片源地址)](超链接地址)  即超链接内部嵌套图片
@@ -43,7 +43,7 @@
 
 徽章生成网站：<https://shields.io/>
 
-本文档主要介绍mackdown，不对徽章做过多介绍，详细介绍请 [ 戳我 ](https://segmentfault.com/a/1190000019552597) 访问。
+本文档主要介绍markdown，不对徽章做过多介绍，详细介绍请 [ 戳我 ](https://segmentfault.com/a/1190000019552597) 访问。
 
 
 
@@ -84,7 +84,7 @@ windows系统需要基于golang实现的工具：https://github.com/ekalinin/git
 
 
 
-  * [一、Mackdown](#%E4%B8%80mackdown)
+  * [一、Markdown](#%E4%B8%80markdown)
     * [简介](#%E7%AE%80%E4%BB%8B)
     * [应用](#%E5%BA%94%E7%94%A8)
     * [编辑器](#%E7%BC%96%E8%BE%91%E5%99%A8)
@@ -341,7 +341,7 @@ ___粗斜体文本___
 </details>
 ```
 
-> 注意：\<details\> 标签内写mackdown代码无效，可写html代码，如ul>li、table等
+> 注意：\<details\> 标签内写markdown代码无效，可写html代码，如ul>li、table等
 
 <details>
 <summary>点我打开关闭折叠</summary>
@@ -644,14 +644,14 @@ function test() {
 
 ```
 语法：
-[Mackdown](#Mackdown)
+[Markdown](#Markdown)
 ```
 
 > 注： github对含有标点符号的标题进行锚点时会忽略掉标点符号，
 > 本页中，如果这样写则无法跳转：\[链接](#九、链接)
 > 正确写法：\[链接](#九链接)
 
-[Mackdown](#一Mackdown)
+[Markdown](#一Markdown)
 
 [链接](#九链接)     
 
@@ -799,14 +799,13 @@ function test() {
 如：
 :smirk:
 ```
-
+:kiss:
+:smile_cat::see_no_evil::horse:
 :smirk::blush::smiley::smile: :sunny:
 
-:smile_cat::see_no_evil::horse:
 
-:kiss:
 
-更多表情名称请查看：[表情包备忘单](https://www.webfx.com/tools/emoji-cheat-sheet/)
+更多表情名称请查看：[表情包清单](https://www.webfx.com/tools/emoji-cheat-sheet/)
 
 
 
